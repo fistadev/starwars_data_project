@@ -10,7 +10,7 @@
 ```
 $ git clone https://github.com/fistadev/starwars_data_project
 
-$ cd goodreads-app
+$ cd starwars_data_project
 ```
 
 2. Install dependencies:

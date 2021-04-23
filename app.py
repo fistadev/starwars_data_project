@@ -32,7 +32,7 @@ with header:
     st.text(' ')
     st.text(' ')
     image = Image.open('data/baby-yoda.jpg')
-    st.image(image, caption="")
+    st.image(image, caption="This is the way")
     st.text(' ')
     with team:
         # meet the team button

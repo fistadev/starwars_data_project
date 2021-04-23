@@ -1,5 +1,7 @@
 # Starwars Data Clustering Project
 
+![](https://cdn.ilpost.it/wp-content/uploads/2019/12/babyyoda.jpg?x72029)
+
 ## The Job
 
 Challenges:
@@ -50,8 +52,6 @@ _-_ Tasks
 <p>&nbsp;</p>
 
 ## How to Run
-
-![](https://cdn.ilpost.it/wp-content/uploads/2019/12/babyyoda.jpg?x72029)
 
 <p>&nbsp;</p>
 

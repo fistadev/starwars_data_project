@@ -1,19 +1,16 @@
 # starwars_data_project
 
-## Check it out live
-
-- [Click here](https://share.streamlit.io/starwars_data_project)
 
 ## How to Run
 
-![](https://www.macleans.ca/wp-content/uploads/2019/11/BABY-YODA-MANDALORIAN-NOV19-810x445.jpg)
+![](https://cdn.ilpost.it/wp-content/uploads/2019/12/babyyoda.jpg?x72029)
 
 1. Clone the repository:
 
 ```
 $ git clone https://github.com/fistadev/starwars_data_project
 
-$ cd goodreads-app
+$ cd starwars_data_project
 ```
 
 2. Install dependencies:

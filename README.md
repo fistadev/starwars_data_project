@@ -1,8 +1,5 @@
 # starwars_data_project
 
-## Check it out live
-
-- [Click here](https://share.streamlit.io/starwars_data_project)
 
 ## How to Run
 

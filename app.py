@@ -185,7 +185,7 @@ with dataset:
 ########## 3D plot ###########
     st.markdown("")
     st.markdown("")
-    st.subheader("Map of Baby Yoda's planet")
+    st.subheader("3D-plot")
     st.markdown("")
     st.markdown("")
 

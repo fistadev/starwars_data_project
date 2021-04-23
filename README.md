@@ -2,6 +2,10 @@
 
 ![](https://cdn.ilpost.it/wp-content/uploads/2019/12/babyyoda.jpg?x72029)
 
+See it live [here](https://share.streamlit.io/fistadev/starwars_data_project/main/app.py)
+
+<p>&nbsp;</p>
+
 ## The Job
 
 Challenges:

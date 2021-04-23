@@ -25,4 +25,4 @@ $ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Read more about it [here](https://dumbledore-on-strive.github.io/)
+Read more about it [here]()

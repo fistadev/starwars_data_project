@@ -6,7 +6,7 @@
 
 ## How to Run
 
-![](https://www.macleans.ca/wp-content/uploads/2019/11/BABY-YODA-MANDALORIAN-NOV19-810x445.jpg)
+![](https://cdn.ilpost.it/wp-content/uploads/2019/12/babyyoda.jpg?x72029)
 
 1. Clone the repository:
 
